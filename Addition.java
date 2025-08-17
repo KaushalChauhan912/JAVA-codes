@@ -3,7 +3,7 @@
 public class Addition{
 
     public static void main(String[] args) {
-        //simple sddition
+        //simple addition
         int sum = 2+3;
         System.out.println("sum is " + sum);
 
