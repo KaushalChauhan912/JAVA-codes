@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class MultidinensionalArray {
+public class MultidimensionalArray {
     public static void main(String[] args) {
         //two dimensional array
         int[][] numbers = new int[3][3];
