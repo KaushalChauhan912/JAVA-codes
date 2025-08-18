@@ -9,6 +9,7 @@
 <h1>JAVA-codes</h1>
 <p>A collection of simple and well-commented Java programs to help beginners learn programming basics step-by-step.</p>
 <h3>Note : It is advised to use pdf extension in your IDE or code editor to preview pdfs of notes.</h3>
+<h4>I will also include projects in this repo later on</h4>
 
 <h2>📂 Repository Structure</h2>
 <pre>
